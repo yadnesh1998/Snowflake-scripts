@@ -1,0 +1,1 @@
+select * from Demotbl order by sal;
